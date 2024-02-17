@@ -1,0 +1,14 @@
+.css-hsi95o-MuiTableRow-root {
+    color: inherit;
+    display: table-row;
+    vertical-align: middle;
+    outline: 0;
+    background-color: #fff!important;
+    box-sizing: border-box;
+    opacity: 1;
+    position: relative;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    width: 100%;
+    z-index: 0;
+}
